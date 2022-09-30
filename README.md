@@ -1,5 +1,5 @@
 
-### Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️
+### <div style="text-align:center">Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:chrisgalera1555@gmail.com?subject=Ol%C3%A1%20Christian%20Galera%21%20Sou%20%28nome%29%2C%20entro%20em%20contato%20referente%20%C3%A0%20%28assunto%29%2E)
@@ -24,6 +24,6 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-### “I think it is possible for ordinary people to choose to be extraordinary.”
+<h3 style="text-align:center"> “I think it is possible for ordinary people to choose to be extraordinary.” </h3>
 
 
