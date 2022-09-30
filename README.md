@@ -24,6 +24,6 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-<h3 style="text-align:center"> “I think it is possible for ordinary people to choose to be extraordinary.” </h3>
+### “I think it is possible for ordinary people to choose to be extraordinary."
 
 
