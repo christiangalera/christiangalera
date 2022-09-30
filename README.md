@@ -1,17 +1,18 @@
 
-<h2> Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️ </h2>
+<h2 align="center">Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️ </h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:chrisgalera1555@gmail.com?subject=Ol%C3%A1%20Christian%20Galera%21%20Sou%20%28nome%29%2C%20entro%20em%20contato%20referente%20%C3%A0%20%28assunto%29%2E)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvHkOtfRFSD%2BjuFx9yheGiQ%3D%3D)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
-)](https://pt.stackoverflow.com/users/266300/christian-galera)
+<div style="display: inline_block" align="center">
+     <a href="mailto:chrisgalera1555@gmail.com?subject=Ol%C3%A1%20Christian%20Galera%21%20Sou%20%28nome%29%2C%20entro%20em%20contato%20referente%20%C3%A0%20%28assunto%29%2E"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+     <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvHkOtfRFSD%2BjuFx9yheGiQ%3D%3D"><img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://pt.stackoverflow.com/users/266300/christian-galera"><img align="center" alt="gmail" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+</div><br/>
 
-![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=christiangalera&show_icons=true&theme=onedark)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=christiangalera&show_icons=true&theme=onedark" />
+</div>
 
-<h2> Tecnologias que domino e ja utilizei 👨‍💻</h2>
-<div style="display: inline_block"><br/>
+<h2 align="center">Tecnologias que domino e ja utilizei 👨‍💻</h2>
+<div style="display: inline_block" align="center">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
