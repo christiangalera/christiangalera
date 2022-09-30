@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=christiangalera&show_icons=true&theme=onedark" />
 </div>
 
-<h2 align="center">Tecnologias que domino e ja utilizei 👨‍💻</h2>
+<h2 align="left">Tecnologias que domino e ja utilizei 👨‍💻</h2>
 <div style="display: inline_block" align="center">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
