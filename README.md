@@ -1,7 +1,7 @@
 
-<h1 align="left">Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️ </h1>
+<h1 align="center">Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️ </h1>
 
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
      <a href="mailto:chrisgalera1555@gmail.com?subject=Ol%C3%A1%20Christian%20Galera%21%20Sou%20%28nome%29%2C%20entro%20em%20contato%20referente%20%C3%A0%20%28assunto%29%2E"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvHkOtfRFSD%2BjuFx9yheGiQ%3D%3D"><img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://pt.stackoverflow.com/users/266300/christian-galera"><img align="center" alt="gmail" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
