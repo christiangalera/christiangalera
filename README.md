@@ -6,7 +6,7 @@
      <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvHkOtfRFSD%2BjuFx9yheGiQ%3D%3D"><img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://pt.stackoverflow.com/users/266300/christian-galera"><img align="center" alt="gmail" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
- <a href=""><img align="center" alt="gmail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <a href="https://wa.me/?text=Ol%C3%A1%C2%B8%20gostaria%20de%20falar%20com%20o%20Christia"><img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <br/>
 
 <div align="center">
