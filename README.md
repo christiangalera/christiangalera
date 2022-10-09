@@ -5,7 +5,7 @@
      <a href="mailto:chrisgalera1555@gmail.com?subject=Ol%C3%A1%20Christian%20Galera%21%20Sou%20%28nome%29%2C%20entro%20em%20contato%20referente%20%C3%A0%20%28assunto%29%2E"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvHkOtfRFSD%2BjuFx9yheGiQ%3D%3D"><img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://pt.stackoverflow.com/users/266300/christian-galera"><img align="center" alt="gmail" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-      <a href="https://wa.me/?text=Ol%C3%A1%C2%B8%20gostaria%20de%20falar%20com%20o%20Christia"><img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+      <a href="https://wa.me/?text=Ol%C3%A1%C2%B8%20gostaria%20de%20falar%20com%20o%20Christian"><img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div><br/>
 
 <div align="center">
