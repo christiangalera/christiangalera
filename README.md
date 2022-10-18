@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀🙋‍♂️ </h1>
+<h1 align="center">Olá, seja bem-vindo! Me chamo Christian Galera 👋<br/> Me siga nas redes socias! Ou entre em contato! 🚀</h1>
 
 <div style="display: inline_block" align="center">
      <a href="mailto:chrisgalera1555@gmail.com?subject=Ol%C3%A1%20Christian%20Galera%21%20Sou%20%28nome%29%2C%20entro%20em%20contato%20referente%20%C3%A0%20%28assunto%29%2E"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
