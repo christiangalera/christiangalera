@@ -17,7 +17,7 @@
 
 <h2 align="left">💻 Tecnologias que domino e ja utilizei</h2>
 <div style="display: inline_block" align="left">
-    <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js,html,css,ts,php,java,react,angular,laravel,kotlin,spring,nodejs,postgres,git,docker&perline=20" />
+    <img align="center" alt="javascript" src="https://skillicons.dev/icons?i=js,php,html,css,ts,react,angular,java,laravel,kotlin,spring,nodejs,postgres,git,docker&perline=20" />
 </div><br/>
 <h3 align="center"> “I think it is possible for ordinary people to choose to be extraordinary." </h3>
 
